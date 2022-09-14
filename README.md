@@ -2,3 +2,5 @@
 
 Fazer alguma coisa alguma coisa
 bla bla bla bla
+
+node app.js
